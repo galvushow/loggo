@@ -5,7 +5,7 @@ A structured logging library for Go microservices built on top of logrus.
 ## Installation
 
 ```bash
-go get github.com/tuusuario/ermeslog
+go get github.com/galvushow/loggo
 ```
 
 ## Quick Start
@@ -14,7 +14,7 @@ go get github.com/tuusuario/ermeslog
 package main
 
 import (
-    "github.com/tuusuario/ermeslog"
+    "github.com/galvushow/loggo"
     "github.com/sirupsen/logrus"
 )
 
